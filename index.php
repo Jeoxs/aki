@@ -1,9 +1,6 @@
-﻿<?php 
+<?php 
 
 $section = isset($_GET['sec']) ? (int)$_GET['sec'] : 'operation/dashboard.php';
-
-
-
 
  ?>
 <!DOCTYPE html>
